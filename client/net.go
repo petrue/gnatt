@@ -1,7 +1,7 @@
 package gnatt
 
 import (
-	. "github.com/alsm/gnatt/packets"
+	. "github.com/petrue/gnatt/packets"
 )
 
 func (c *SNClient) receive() {

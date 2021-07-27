@@ -1,8 +1,9 @@
 package gnatt
 
 import (
-	. "github.com/alsm/gnatt/packets"
 	"time"
+
+	. "github.com/petrue/gnatt/packets"
 )
 
 type MessageAndToken struct {
